@@ -1,1 +1,2 @@
-# inlights-nstp
+# inlights
+computer vision internship at NSTP
